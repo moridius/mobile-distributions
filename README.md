@@ -4,7 +4,7 @@ I wanted to know which alternative operating systems I could run on my phone, so
 
 | | /e/OS | CalyxOS | GrapheneOS | LineageOS | Replicant | Ubuntu Touch | postmarketOS |
 |-|-|-|-|-|-|-|-|
-| ASUS MeMO Pad 7 (ME176C(X)) | | | | | | | Community |
+| 10.or G | | | | supported | | | |
 | ASUS ROG Phone 2 | Q | | | | | | |
 | ASUS ROG Phone 3 | R | | | | | | |
 | ASUS ZenFone 2 ZE551ML | | | | | | 0% | |
@@ -17,7 +17,6 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | ASUS ZenFone Max M2 | R | | | | | | |
 | ASUS ZenFone Max Pro M1 | S | | | supported | | 98.2% | |
 | ASUS ZenFone Max Pro M2 | R | | | | | | |
-| Arrow DragonBoard 410c | | | | | | | Community |
 | BQ Aquaris E4.5 | | | | | | 94.4% | |
 | BQ Aquaris E5 HD | | | | | | 98.1% | |
 | BQ Aquaris M10 FHD | | | | | | 98.7% | |
@@ -33,7 +32,7 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Dynalink TV Box (4K) | | | | supported | | | |
 | Essential PH-1 | S | | | supported | | | |
 | F(x)tec Pro1 | | | | | | 70.8% | |
-| F(x)tec Pro¹ | | | | supported | | | |
+| F(x)tec Pro¹ | S | | | supported | | | |
 | Fairphone 2 | R | | | supported | | 96.2% | |
 | Fairphone 3 | | | | supported | | | |
 | Fairphone 3/3+ | R (stable) | | | | | 98.2% | |
@@ -46,7 +45,6 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Google Nexus 5X | Oreo beta | | | | | | |
 | Google Nexus 6 | R | | | supported | | | |
 | Google Nexus 6P | Oreo beta | | | | | 88% | |
-| Google Nexus 7 2013 | R | | | | | | |
 | Google Nexus 7 2013 (Wi-Fi, Repartitioned) | | | | supported | | | |
 | Google Nexus 7 2013 LTE | | | | | | 66.5% | |
 | Google Pixel | R | | | supported | | 71.5% | |
@@ -95,6 +93,8 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | LG V20 (US Unlocked) | | | | supported | | | |
 | LG V20 (Verizon) | | | | supported | | | |
 | LG V20 T-Mobile | | | | | | 0% | |
+| LG V30 (T-Mobile) | | | | supported | | | |
+| LG V30 (Unlocked) | | | | supported | | | |
 | LeEco Le 2 | Q | | | | | | |
 | LeEco Le Max2 | R | | | supported | | | |
 | LeEco Le Pro3 / Le Pro3 Elite | R | | | supported | | | |
@@ -142,10 +142,10 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Motorola Moto Z2 Play | R | | | | | | |
 | Motorola Moto Z3 Play | S | | | | | | |
 | Motorola edge | | | | supported | | | |
-| Motorola edge 20 | | | | supported | | | |
-| Motorola edge 20 pro | | | | supported | | | |
-| Motorola edge 2021 | | | | supported | | | |
-| Motorola edge 30 | | | | supported | | | |
+| Motorola edge 20 | S | | | supported | | | |
+| Motorola edge 20 pro | S | | | supported | | | |
+| Motorola edge 2021 | S | | | supported | | | |
+| Motorola edge 30 | S | | | supported | | | |
 | Motorola edge s / moto g100 | | | | supported | | | |
 | Motorola moto e5 plus (XT1924-1/2/4/5) | | | | supported | | | |
 | Motorola moto e5 plus (XT1924-3/9) | | | | supported | | | |
@@ -161,12 +161,13 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Motorola moto g7 power | | | | supported | | | |
 | Motorola moto x (2014) | | | | supported | | | |
 | Motorola moto x4 | | | | supported | | | |
+| Motorola moto z | | | | supported | | | |
 | Motorola moto z play | | | | supported | | | |
 | Motorola moto z2 force | | | | supported | | | |
 | Motorola moto z2 play | | | | supported | | | |
 | Motorola moto z3 play | | | | supported | | | |
 | Motorola one action | | | | supported | | | |
-| Motorola one fusion+ | | | | supported | | | |
+| Motorola one fusion+ | S | | | supported | | | |
 | Motorola one power | | | | supported | | | |
 | Motorola one vision / p50 | | | | supported | | | |
 | Murena One | R (stable) | | | | | | |
@@ -182,10 +183,9 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Nokia 6.1 (2018) | | | | supported | | | |
 | Nokia 6.1 Plus | S | | | supported | | | |
 | Nokia N900 | | | | | | | Community |
-| Nubia Mini 5G | | | | supported | | | |
-| Nubia Z17 | Q | | | supported | | | |
-| Nubia Z18 Mini | | | | supported | | | |
-| ODROID HC2 | | | | | | | Community |
+| Nubia Mini 5G | S | | | supported | | | |
+| Nubia Z17 | S | | | supported | | | |
+| Nubia Z18 Mini | S | | | supported | | | |
 | OPPO F1 | Pie beta | | | | | | |
 | OPPO R5/R5s | Pie beta | | | | | | |
 | OPPO R7 Plus | Pie beta | | | | | | |
@@ -196,19 +196,19 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | OnePlus 5T | S | | | supported | | | |
 | OnePlus 6 | S | | | supported | | 96.4% | Community |
 | OnePlus 6T | S | | | supported | | 96.4% | Community |
-| OnePlus 7 | R | | | supported | | | |
-| OnePlus 7 Pro | R (stable) | | | supported | | | |
-| OnePlus 7T | R (stable) | | | supported | | | |
-| OnePlus 7T Pro | R | | | supported | | | |
+| OnePlus 7 | S | | | supported | | | |
+| OnePlus 7 Pro | S (stable) | | | supported | | | |
+| OnePlus 7T | S (stable) | | | supported | | | |
+| OnePlus 7T Pro | S | | | supported | | | |
 | OnePlus 8 | R (stable) | | | supported | | | |
 | OnePlus 8 Pro | R (stable) | | | supported | | | |
 | OnePlus 8T | S | | | supported | | | |
-| OnePlus 9 | S | | | | | | |
-| OnePlus 9 Pro | S | | | | | | |
+| OnePlus 9 | S | | | supported | | | |
+| OnePlus 9 Pro | S | | | supported | | | |
 | OnePlus 9R | | | | supported | | | |
-| OnePlus Nord | R (stable) | | | | | | |
+| OnePlus Nord | R (stable) | | | supported | | | |
 | OnePlus Nord 2 5G | | | | | | 86.2% | |
-| OnePlus Nord N200 | | | | supported | | | |
+| OnePlus Nord N200 | S | | | supported | | | |
 | OnePlus One | Minimal Nougat beta | | | supported | | | |
 | OnePlus X | Nougat beta | | | | | | |
 | Oneplus 2 | | | | | | 82.4% | |
@@ -218,9 +218,6 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Oneplus One | | | | | | 98.1% | |
 | PINE64 PinePhone | | | | | | | Main |
 | PINE64 PinePhone Pro | | | | | | | Community |
-| PINE64 PineTab | | | | | | | Community |
-| PINE64 Pinebook Pro | | | | | | | Community |
-| PINE64 RockPro64 | | | | | | | Community |
 | Pinebook | | | | | | 21.4% | |
 | Pinephone | | | | | | 48.3% | |
 | Pinetab | | | | | | 52% | |
@@ -241,10 +238,10 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Samsung Galaxy A5 (2017) | | | | supported | | | |
 | Samsung Galaxy A5 2016 | Q | | | | | | |
 | Samsung Galaxy A5 2017 | R | | | | | | |
-| Samsung Galaxy A52 4G | | | | supported | | | |
+| Samsung Galaxy A52 4G | S | | | supported | | | |
 | Samsung Galaxy A7 | R | | | | | | |
 | Samsung Galaxy A7 (2017) | | | | supported | | | |
-| Samsung Galaxy A72 | | | | supported | | | |
+| Samsung Galaxy A72 | S | | | supported | | | |
 | Samsung Galaxy E7 | | | | | | | Community |
 | Samsung Galaxy Grand Max | | | | | | | Community |
 | Samsung Galaxy J1 (2016) | | | | | | 42.5% | |
@@ -315,19 +312,15 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Samsung Galaxy S5 Neo | Q | | | | | | |
 | Samsung Galaxy S5 Plus | Pie beta | | | | | | |
 | Samsung Galaxy S7 | Q (stable) | | | | | | |
-| Samsung Galaxy S7 (Exynos) | | | | | | 89.4% | |
+| Samsung Galaxy S7 (Exynos) | | | | | | 90.4% | |
 | Samsung Galaxy S7 Edge | Q (stable) | | | | | | |
-| Samsung Galaxy S7 Edge (Exynos) | | | | | | 89.4% | |
+| Samsung Galaxy S7 Edge (Exynos) | | | | | | 90.4% | |
 | Samsung Galaxy S8 | R (stable) | | | | | | |
 | Samsung Galaxy S8+ | R beta | | | | | | |
 | Samsung Galaxy S9 | Q (stable) | | | | | | |
 | Samsung Galaxy S9+ | Q (stable) | | | | | | |
-| Samsung Galaxy Tab 2 10.1 | | | | | | | Community |
 | Samsung Galaxy Tab 2 10.1 (GT-P51xx) | | | | | Maintained | | |
-| Samsung Galaxy Tab 2 7.0 | | | | | | | Community |
-| Samsung Galaxy Tab A 8.0 (2015) | | | | | | | Community |
 | Samsung Galaxy Tab A 8.0 (2019) | | | | supported | | | |
-| Samsung Galaxy Tab A 9.7 (2015) | | | | | | | Community |
 | Samsung Galaxy Tab A8 10.5 (2021, SM-X200/X205) | | | | | | 86.8% | |
 | Samsung Galaxy Tab S2 8.0 Wi-Fi | Pie beta | | | | | | |
 | Samsung Galaxy Tab S2 9.7 Wi-Fi | Pie beta | | | | | | |
@@ -338,7 +331,7 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Samsung Galaxy Tab S6 Lite (LTE) | | | | supported | | | |
 | Samsung Galaxy Tab S6 Lite (Wi-Fi) | | | | supported | | | |
 | Samsung S3 Neo+ (GT-I9301I) | | | | | | 92.5% | |
-| Sony Xperia 1 II | | | | supported | | | |
+| Sony Xperia 1 II | S | | | supported | | | |
 | Sony Xperia 10 | S | | | supported | | 80.1% | |
 | Sony Xperia 10 Plus | S | | | supported | | | |
 | Sony Xperia 5 II | | | | supported | | | |
@@ -368,30 +361,31 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Volla Phone X | | | | | | 97.3% | |
 | Wileyfox Swift | Nougat beta | | | | | | Community |
 | Wingtech Redmi 2 | Minimal Nougat beta | | | | | | |
-| Xiaomi 11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE | | | | supported | | | |
+| Xiaomi 11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE | S | | | supported | | | |
 | Xiaomi 4 | | | | | | 0% | |
 | Xiaomi Mi 10 Lite 5G | S | | | supported | | | |
 | Xiaomi Mi 10T / Mi 10T Pro / Redmi K30S Ultra | S | | | supported | | | |
 | Xiaomi Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G | S | | | supported | | | |
-| Xiaomi Mi 11 Lite 5G | | | | supported | | | |
-| Xiaomi Mi 11i / Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro | | | | supported | | | |
+| Xiaomi Mi 11 Lite 5G | S | | | supported | | | |
+| Xiaomi Mi 11i / Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro | S | | | supported | | | |
 | Xiaomi Mi 3 / Mi 4 | Nougat beta | | | | | | |
 | Xiaomi Mi 4c | Nougat beta | | | | | | |
-| Xiaomi Mi 5 | R | | | supported | | | |
+| Xiaomi Mi 5 | S | | | supported | | | |
 | Xiaomi Mi 5s | Pie beta | | | | | | |
-| Xiaomi Mi 5s Plus | R | | | supported | | | |
+| Xiaomi Mi 5s Plus | S | | | supported | | | |
 | Xiaomi Mi 6 | S | | | supported | | 94.6% | |
 | Xiaomi Mi 6X | R | | | | | | |
 | Xiaomi Mi 8 | S | | | supported | | 90.1% | |
-| Xiaomi Mi 8 Explorer Edition | | | | supported | | | |
+| Xiaomi Mi 8 Explorer Edition | S | | | supported | | | |
 | Xiaomi Mi 8 Lite | R | | | | | | |
-| Xiaomi Mi 8 Pro | | | | supported | | | |
+| Xiaomi Mi 8 Pro | S | | | supported | | | |
 | Xiaomi Mi 8 SE | | | | supported | | | |
 | Xiaomi Mi 9 SE | | | | supported | | | |
 | Xiaomi Mi A1 | S | | | supported | | | |
 | Xiaomi Mi A2 | R | | | | | 99.1% | |
 | Xiaomi Mi A3 | | | | | | 89.2% | |
 | Xiaomi Mi CC 9 / Mi 9 Lite | | | | supported | | | |
+| Xiaomi Mi CC9 Meitu Edition | | | | supported | | | |
 | Xiaomi Mi MIX | R | | | | | | |
 | Xiaomi Mi MIX 2 | R | | | supported | | | |
 | Xiaomi Mi MIX 2S | R | | | supported | | | |
@@ -410,13 +404,17 @@ I wanted to know which alternative operating systems I could run on my phone, so
 | Xiaomi Poco X3 NFC | | | | | | 100% | |
 | Xiaomi Pocophone F1 / POCO F1 | | | | | | | Community |
 | Xiaomi Redmi 2 | | | | | | | Community |
+| Xiaomi Redmi 3S / 3X / 4 (India) / 4X / [Note 5A / Y1 - Prime] | | | | supported | | | |
 | Xiaomi Redmi 3S/3X | Pie beta | | | | | | |
 | Xiaomi Redmi 3X, 3S and 3SP | | | | | | 45.1% | |
 | Xiaomi Redmi 4 | Pie beta | | | | | | |
 | Xiaomi Redmi 4A | | | | | | 39.5% | |
+| Xiaomi Redmi 4A / 5A / [Note 5A / Y1 - Lite] | S | | | supported | | | |
 | Xiaomi Redmi 4X | | | | | | 92.8% | |
 | Xiaomi Redmi 5 Plus | | | | | | 35.5% | |
 | Xiaomi Redmi 7 | R | | | supported | | 84.4% | |
+| Xiaomi Redmi 7A / 8 / 8A / 8A Dual | S | | | supported | | | |
+| Xiaomi Redmi 9 | | | | supported | | | |
 | Xiaomi Redmi 9 and 9 Prime | | | | | | 90.1% | |
 | Xiaomi Redmi 9A | | | | | | 95.4% | |
 | Xiaomi Redmi 9C | | | | | | 95.4% | |
